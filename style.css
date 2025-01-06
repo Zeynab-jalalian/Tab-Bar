@@ -24,3 +24,9 @@ body{
     display: flex;
     justify-content: space-around;
 }
+.tabs h3{
+    background: #ccc;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
