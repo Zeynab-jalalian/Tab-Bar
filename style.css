@@ -4,3 +4,19 @@
     box-sizing: border-box;
     direction: rtl;
 }
+body{
+    background: #242424;
+    position: relative;
+
+}
+.container{
+    position: absolute;
+    background: #fff;
+    width: 80%;
+    height: auto;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 150px;
+    border-radius: 10px;
+    border: 2px solid #000;
+}
