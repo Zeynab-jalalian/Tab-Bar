@@ -28,5 +28,14 @@ body{
     background: #ccc;
     width: 100%;
     text-align: center;
-    padding: 10px 0;
+    padding: 15px 0;
+    cursor: pointer;
+}
+.content{
+    padding: 50px 40px;
+}
+.content p{
+    text-align: justify;
+    line-height: 2;
+    color: #393939;
 }
